@@ -22,6 +22,6 @@
 🔹 Portfolio Website  
 
 ## Connect with me
-LinkedIn: [your-link]
-Portfolio: [your-link]
-LeetCode: [your-link]
+LinkedIn: [[your-link]](https://www.linkedin.com/in/nitin-singh-52a8a7278/)
+Portfolio: https://portfolio-nitinsingh.netlify.app/
+LeetCode: https://leetcode.com/u/nitin_singh01/
